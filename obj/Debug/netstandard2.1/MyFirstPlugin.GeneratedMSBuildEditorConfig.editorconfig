@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = MyFirstPlugin
+build_property.ProjectDir = S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
