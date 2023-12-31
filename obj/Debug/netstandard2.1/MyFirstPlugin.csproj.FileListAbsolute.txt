@@ -1,0 +1,72 @@
+S:\SteamLibrary\steamapps\common\Mod_lethal\MyFirstPlugin\bin\Debug\netstandard2.1\MyFirstPlugin.deps.json
+S:\SteamLibrary\steamapps\common\Mod_lethal\MyFirstPlugin\bin\Debug\netstandard2.1\MyFirstPlugin.dll
+S:\SteamLibrary\steamapps\common\Mod_lethal\MyFirstPlugin\bin\Debug\netstandard2.1\MyFirstPlugin.pdb
+S:\SteamLibrary\steamapps\common\Mod_lethal\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.csproj.AssemblyReference.cache
+S:\SteamLibrary\steamapps\common\Mod_lethal\MyFirstPlugin\obj\Debug\netstandard2.1\PluginInfo.cs
+S:\SteamLibrary\steamapps\common\Mod_lethal\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.GeneratedMSBuildEditorConfig.editorconfig
+S:\SteamLibrary\steamapps\common\Mod_lethal\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.AssemblyInfoInputs.cache
+S:\SteamLibrary\steamapps\common\Mod_lethal\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.AssemblyInfo.cs
+S:\SteamLibrary\steamapps\common\Mod_lethal\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.csproj.CoreCompileInputs.cache
+S:\SteamLibrary\steamapps\common\Mod_lethal\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.dll
+S:\SteamLibrary\steamapps\common\Mod_lethal\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.pdb
+S:\SteamLibrary\steamapps\common\Mod_lethal\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.LCSoundTool.Properties.Resources.resources
+S:\SteamLibrary\steamapps\common\Mod_lethal\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.csproj.GenerateResource.cache
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.csproj.AssemblyReference.cache
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\obj\Debug\netstandard2.1\PluginInfo.cs
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.GeneratedMSBuildEditorConfig.editorconfig
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.AssemblyInfoInputs.cache
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.AssemblyInfo.cs
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.csproj.CoreCompileInputs.cache
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\MyFirstPlugin.deps.json
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\MyFirstPlugin.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\MyFirstPlugin.pdb
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Collections.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Multiplayer.Tools.NetStats.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Multiplayer.Tools.MetricTypes.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Multiplayer.Tools.NetworkSolutionInterface.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Networking.Transport.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Burst.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Multiplayer.Tools.NetStatsReporting.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Multiplayer.Tools.Common.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Services.Relay.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Multiplayer.Tools.NetworkProfiler.Runtime.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Services.Core.Internal.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Services.Core.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.csproj.CopyComplete
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.pdb
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\MyFirstPlugin.deps.json
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\MyFirstPlugin.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\MyFirstPlugin.pdb
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Collections.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Multiplayer.Tools.NetStats.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Multiplayer.Tools.MetricTypes.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Multiplayer.Tools.NetworkSolutionInterface.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Networking.Transport.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Burst.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Multiplayer.Tools.NetStatsReporting.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Multiplayer.Tools.Common.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Services.Relay.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Multiplayer.Tools.NetworkProfiler.Runtime.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Services.Core.Internal.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Services.Core.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.csproj.AssemblyReference.cache
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\obj\Debug\netstandard2.1\PluginInfo.cs
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.GeneratedMSBuildEditorConfig.editorconfig
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.AssemblyInfoInputs.cache
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.AssemblyInfo.cs
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.csproj.CoreCompileInputs.cache
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.csproj.CopyComplete
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.dll
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\obj\Debug\netstandard2.1\MyFirstPlugin.pdb
+S:\SteamLibrary\steamapps\common\Lethal Company\dev_mod\MyFirstPlugin\bin\Debug\netstandard2.1\LC_SoundTool.dll
