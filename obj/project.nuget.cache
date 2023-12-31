@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S5aEHlqpVfq46HXG0zridMpuyzI9Uq3bLaRehRHAtX5PSuuvk0t3aIHB6e6DkOpLGriBaHsGxK5FLmJH/kRLew==",
+  "dgSpecHash": "L013EG23XM51OwlBXHW8ZpRk8SR+MbbKuibB3+Z0wUpWgRAf45Xa/D90A+KrslwLX7AJv46nqkXKLS599+z3QQ==",
   "success": false,
-  "projectFilePath": "S:\\SteamLibrary\\steamapps\\common\\Lethal Company\\BepInEx\\plugins\\MyFirstPlugin\\MyFirstPlugin.csproj",
+  "projectFilePath": "S:\\SteamLibrary\\steamapps\\common\\Lethal Company\\dev_mod\\MyFirstPlugin\\MyFirstPlugin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ohhel\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
     "C:\\Users\\ohhel\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
@@ -47,7 +47,7 @@
     {
       "code": "NU1101",
       "level": "Error",
-      "message": "Das Paket \"LC_SoundTool\" wurde nicht gefunden. Es sind keine Pakete mit dieser ID in folgenden Quellen vorhanden: BepInEx, Microsoft Visual Studio Offline Packages, nuget.org",
+      "message": "Unable to find package LC_SoundTool. No packages exist with this id in source(s): BepInEx, Microsoft Visual Studio Offline Packages, nuget.org",
       "libraryId": "LC_SoundTool",
       "targetGraphs": [
         ".NETStandard,Version=v2.1"

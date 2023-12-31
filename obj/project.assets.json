@@ -2690,14 +2690,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\SteamLibrary\\steamapps\\common\\Lethal Company\\BepInEx\\plugins\\MyFirstPlugin\\MyFirstPlugin.csproj",
+      "projectUniqueName": "S:\\SteamLibrary\\steamapps\\common\\Lethal Company\\dev_mod\\MyFirstPlugin\\MyFirstPlugin.csproj",
       "projectName": "MyFirstPlugin",
-      "projectPath": "S:\\SteamLibrary\\steamapps\\common\\Lethal Company\\BepInEx\\plugins\\MyFirstPlugin\\MyFirstPlugin.csproj",
+      "projectPath": "S:\\SteamLibrary\\steamapps\\common\\Lethal Company\\dev_mod\\MyFirstPlugin\\MyFirstPlugin.csproj",
       "packagesPath": "C:\\Users\\ohhel\\.nuget\\packages\\",
-      "outputPath": "S:\\SteamLibrary\\steamapps\\common\\Lethal Company\\BepInEx\\plugins\\MyFirstPlugin\\obj\\",
+      "outputPath": "S:\\SteamLibrary\\steamapps\\common\\Lethal Company\\dev_mod\\MyFirstPlugin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "S:\\SteamLibrary\\steamapps\\common\\Lethal Company\\BepInEx\\plugins\\MyFirstPlugin\\NuGet.Config",
+        "S:\\SteamLibrary\\steamapps\\common\\Lethal Company\\dev_mod\\MyFirstPlugin\\NuGet.Config",
         "C:\\Users\\ohhel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2773,7 +2773,7 @@
     {
       "code": "NU1101",
       "level": "Error",
-      "message": "Das Paket \"LC_SoundTool\" wurde nicht gefunden. Es sind keine Pakete mit dieser ID in folgenden Quellen vorhanden: BepInEx, Microsoft Visual Studio Offline Packages, nuget.org",
+      "message": "Unable to find package LC_SoundTool. No packages exist with this id in source(s): BepInEx, Microsoft Visual Studio Offline Packages, nuget.org",
       "libraryId": "LC_SoundTool",
       "targetGraphs": [
         ".NETStandard,Version=v2.1"
